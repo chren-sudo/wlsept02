@@ -1,3 +1,4 @@
-print('s')
+print('s66')
+print("niaho")
 
 
